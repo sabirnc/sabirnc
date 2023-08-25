@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack devoloper from india</h3>
 <img src="https://imgs.search.brave.com/4gDRWAHzGZn4z5JjBMLa0tDDkAtBPv4a9dWbMAHyUco/rs:fit:474:355:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzZlL2E4/L2M2LzZlYThjNjhk/ZmE5MjRiYzJlNmE5/YWJlM2U0NzMwODdh/LmdpZg.gif"  width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirnc&label=Profile%20views&color=0e75b6&style=flat" alt="sabirnc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirnc&label=Profile%20views&color=0e75b6&style=flat" alt="sabirnc" width="100%" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabirnc" alt="sabirnc" /></a> </p>
 
