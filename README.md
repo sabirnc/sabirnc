@@ -6,12 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabirnc" alt="sabirnc" /></a> </p>
 
-- 🔭 I’m currently working on **book my show clone**
-
-- 🌱 I’m currently learning **three js**
-
-- 💬 Ask me about **javascript**
-
+- 💬 Ask me about **computer and programming**
 - 📫 How to reach me **mohammedsabir5123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
