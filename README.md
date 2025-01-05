@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, there I'm Sabir</h1>
-<h3 align="center">💻 Software Developer Passionate about building solutions that solve real-world problems. I specialize in web, mobile, and desktop applications with a growing focus on backend development and computer networks.🌱 Always Learning Exploring how computers and software work at a deeper level—diving into OS internals, networking, and hardware interactions. Currently working on network programming with C++ and Winsock.📈 Future Goals Create impactful tech solutions, grow my knowledge in networks and OS internals, and eventually build a billion-dollar business that solves meaningful problems.</h3>
+<h3 align="left">💻 Software Developer Passionate about building solutions that solve real-world problems. I specialize in web, mobile, and desktop applications with a growing focus on backend development and computer networks.🌱 Always Learning Exploring how computers and software work at a deeper level—diving into OS internals, networking, and hardware interactions. Currently working on network programming with C++ and Winsock.📈 Future Goals Create impactful tech solutions, grow my knowledge in networks and OS internals, and eventually build a billion-dollar business that solves meaningful problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirnc&label=Profile%20views&color=0e75b6&style=flat" alt="sabirnc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabirnc" alt="sabirnc" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [mohammedsabir.in](mohammedsabir.in)
 
