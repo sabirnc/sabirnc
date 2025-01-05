@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, there I'm Sabir</h1>
-<h3 align="left">💻 Software Developer Passionate about building solutions that solve real-world problems. I specialize in web, mobile, and desktop applications with a growing focus on backend development and computer networks.🌱 Always Learning Exploring how computers and software work at a deeper level—diving into OS internals, networking, and hardware interactions. Currently working on network programming with C++ and Winsock.📈 Future Goals Create impactful tech solutions, grow my knowledge in networks and OS internals, and eventually build a billion-dollar business that solves meaningful problems.</h3>
+<h4 align="left">💻 Software Developer Passionate about building solutions that solve real-world problems.</h4> 
+<h4 align="left">I specialize in web, mobile, and desktop applications with a growing focus on backend development and computer networks.</h4> 
+<h4 align="left">I🌱 Always Learning Exploring how computers and software work at a deeper level—diving into OS internals, networking, and hardware interactions.</h4><h4 align="left"> Currently working on network programming with C++ and Winsock.📈 Future Goals Create impactful tech solutions, grow my knowledge in networks and OS internals, and eventually build a billion-dollar business that solves meaningful problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirnc&label=Profile%20views&color=0e75b6&style=flat" alt="sabirnc" /> </p>
 
