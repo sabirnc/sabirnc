@@ -8,7 +8,7 @@ I🌱 Always Learning Exploring how computers and software work at a deeper leve
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabirnc" alt="sabirnc" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [mohammedsabir.in] <a href="HTTP://mohammmedsabir.in">mohammedsabir.in</a>
+- 👨‍💻 All of my projects are available at [mohammedsabir.in] <a href="http://mohammedsabir.in/">mohammedsabir.in</a>
 
 - 📫 How to reach me **mohammedsabir5123@gmail.com**
 
