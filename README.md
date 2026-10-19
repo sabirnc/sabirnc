@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>- 🔭 I'm currently working on Myself<br>- 👯 I'm looking to collaborate on AI-powered web apps and open-source full-stack projects<br>- 🤝 I'm looking for help with system design at scale and open-source contributions<br>- 🌱 I'm currently learning LLM tooling (LangChain, Whisper, Groq), local LLMs and advanced system design<br>- 💬 Ask me about Node.js, Next.js, React, Laravel, GraphQL, or deploying apps with Docker, Nginx, PM2 and CI/CD<br>- ⚡ Fun fact: I'm self-taught, with no CS degree, and have built 100+ projects across e-commerce, real estate, employee monitoring and AI apps
+- 🔭 I'm currently working on Myself<br>- 👯 I'm looking to collaborate on AI-powered web apps and open-source full-stack projects<br>- 🤝 I'm looking for help with system design at scale and open-source contributions<br>- 🌱 I'm currently learning LLM tooling (LangChain, Whisper, Groq), local LLMs and advanced system design<br>- 💬 Ask me about Node.js, Next.js, React, Laravel, GraphQL, or deploying apps with Docker, Nginx, PM2 and CI/CD<br>- ⚡ Fun fact: I'm self-taught, with no CS degree, and have built 100+ projects across e-commerce, real estate, employee monitoring and AI apps
 
 
 ## 🌐 Socials:
